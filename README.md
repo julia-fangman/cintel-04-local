@@ -8,12 +8,13 @@
 This app utilizes the Palmer Penguins dataset, which comprises observations of three penguin species across three islands in the Palmer Archipelago, Antarctica. The dataset is provided by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.
 
 Column names for the penguins dataset include:
-species: penguin species (Chinstrap, Adelie, or Gentoo)
-island: island name (Dream, Torgersen, or Biscoe) in the Palmer Archipelago
-bill_length_mm: length of the bill in millimeters
-bill_depth_mm: depth of the bill in millimeters
-flipper_length_mm: length of the flipper in millimeters
-body_mass_g: body mass in grams
+
+species: penguin species (Chinstrap, Adelie, or Gentoo),
+island: island name (Dream, Torgersen, or Biscoe) in the Palmer Archipelago,
+bill_length_mm: length of the bill in millimeters,
+bill_depth_mm: depth of the bill in millimeters,
+flipper_length_mm: length of the flipper in millimeters,
+body_mass_g: body mass in grams, &
 sex: MALE or FEMALE
 
 ## Beginning the Project:
