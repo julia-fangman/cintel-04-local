@@ -1,14 +1,31 @@
-## PyShiny Express: Palmer Penguins Dashboard
+## Julia's PyShiny Express: Palmer Penguins Dashboard
 
 ### Repository: https://github.com/julia-fangman/cintel-04-local/
+### Live App: 
 
-#### Commands
+### Data Description: 
 
-Commands may vary depending on your operating system. The following commands are tailored for Windows users. For Mac/Linux users, generally replace 'py' with 'python3'.
+This app utilizes the Palmer Penguins dataset, which comprises observations of three penguin species across three islands in the Palmer Archipelago, Antarctica. The dataset is provided by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.
 
-#### Verify Installations
+Column names for the penguins dataset include:
+species: penguin species (Chinstrap, Adelie, or Gentoo)
+island: island name (Dream, Torgersen, or Biscoe) in the Palmer Archipelago
+bill_length_mm: length of the bill in millimeters
+bill_depth_mm: depth of the bill in millimeters
+flipper_length_mm: length of the flipper in millimeters
+body_mass_g: body mass in grams
+sex: MALE or FEMALE
 
-Open the project folder in VS Code. Then, open a new terminal and execute the following commands one by one to verify installations:
+## Beginning the Project:
+
+### Commands: 
+Commands are operating system-specific. These commands are for Windows users. On Mac/Linux, generally use python3 instead of py. Edit your README.md to reflect the commands that work on your machine.
+
+### Verify Installations
+Open project folder in VS Code.
+Open a new terminal
+
+Run the following commands in the terminal one at a time to verify installations.
 py --version
 git --version
 git config user.name
