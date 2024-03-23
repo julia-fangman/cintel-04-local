@@ -2,13 +2,13 @@
 
 ## PyShiny Express: Palmer Penguins Dashboard
 
-### Repository: https://github.com/julia-fangman/cintel-04-local/
+#### Repository: https://github.com/julia-fangman/cintel-04-local/
 
-Commands
+### Commands
 
 Commands are operating system-specific. These commands are for Windows users. On Mac/Linux, generally use python3 instead of py. Edit your README.md to reflect the commands that work on your machine.
 
-Verify Installations
+### Verify Installations
 
 Open project folder in VS Code.
 Open a new terminal - on Windows, ensure the terminal type is PowerShell (not the old cmd)
