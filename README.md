@@ -21,7 +21,9 @@ sex: MALE or FEMALE
 
 ### Commands: 
 Commands are operating system-specific. On Mac/Linux, generally use python3 instead of py. 
+
 To Activate Virtual Environment: source .venv/bin/activate
+
 To Activate my project: shiny run --reload --launch-browser penguins/app.py
 
 ### Verify Installations
