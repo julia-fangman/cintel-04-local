@@ -1,7 +1,7 @@
 ## Julia's PyShiny Express: Palmer Penguins Dashboard
 
 ### Repository: https://github.com/julia-fangman/cintel-04-local/
-### Live App: 
+### Live App: https://julia-fangman.github.io/cintel-04-local/ 
 
 ### Data Description: 
 
